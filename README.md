@@ -17,7 +17,7 @@ This is a personal finance tracker web app built with [Streamlit](https://stream
 
 ## Installation
 
-1. Clone the repository or download the Python script `finance_tracker_easyocr.py`
+1. Clone the repository or download the Python script `finance_tracker.py`
 2. Install required dependencies:
 
    ```bash
@@ -27,7 +27,7 @@ This is a personal finance tracker web app built with [Streamlit](https://stream
 3. Run the app:
 
    ```bash
-   streamlit run finance_tracker_easyocr.py
+   streamlit run finance_tracker.py
    ```
 
 ---
