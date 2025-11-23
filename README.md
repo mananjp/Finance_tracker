@@ -17,7 +17,7 @@ This is a personal finance tracker web app built with [Streamlit](https://stream
 
 ## Installation
 
-1. Clone the repository or download the Python script `finance_tracker_easyocr.py`
+1. Clone the repository or download the Python script `finance_tracker.py`
 2. Install required dependencies:
 
    ```bash
@@ -27,7 +27,7 @@ This is a personal finance tracker web app built with [Streamlit](https://stream
 3. Run the app:
 
    ```bash
-   streamlit run finance_tracker_easyocr.py
+   streamlit run finance_tracker.py
    ```
 
 ---
@@ -61,14 +61,13 @@ The parser handles receipts that list items with descriptions followed by prices
 ## Limitations & Notes
 
 - Currently uses **EasyOCR** for OCR recognition; works offline and fast.  
-- Surya OCR and others are omitted due to complexity and reliability issues in this app.  
 - OCR quality depends on receipt image clarity and format.
 
 ---
 
 ## License
 
-This project is open-source and free to use under the MIT License.
+This project is open-source and free to use under the Apache License.
 
 ---
 
