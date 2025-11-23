@@ -1,0 +1,6 @@
+streamlit>=1.20
+easyocr>=1.7.1
+pandas>=2.0
+numpy>=1.23
+pillow>=9.5.0
+plotly>=5.18
