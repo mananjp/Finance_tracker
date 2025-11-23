@@ -61,14 +61,13 @@ The parser handles receipts that list items with descriptions followed by prices
 ## Limitations & Notes
 
 - Currently uses **EasyOCR** for OCR recognition; works offline and fast.  
-- Surya OCR and others are omitted due to complexity and reliability issues in this app.  
 - OCR quality depends on receipt image clarity and format.
 
 ---
 
 ## License
 
-This project is open-source and free to use under the MIT License.
+This project is open-source and free to use under the Apache License.
 
 ---
 
